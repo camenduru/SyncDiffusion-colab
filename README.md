@@ -22,5 +22,7 @@ https://syncdiffusion.github.io/
 ## Output
 ![Screenshot 2023-12-09 080014](https://github.com/camenduru/SyncDiffusion-colab/assets/54370274/71915c97-29c2-471a-9bea-b736eb74cf3c)
 
+![image - 2023-12-09T080326 878](https://github.com/camenduru/SyncDiffusion-colab/assets/54370274/c7db7f79-a95a-4966-8912-ac639108c935)
+
 ## Sponsor
 https://modelslab.com
